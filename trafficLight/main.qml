@@ -64,12 +64,12 @@ Window{
             ColorAnimation {
                 target: redLight
                 properties: "color"
-                duration: 200
+                duration: 300
             }
             ColorAnimation {
                 target: greenLight
                 properties: "color"
-                duration: 200
+                duration: 300
             }
         }
     ]
